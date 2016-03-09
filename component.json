@@ -1,0 +1,10 @@
+{
+    "name": "base64",
+    "description": "JavaScript base64 library ",
+    "repos": "https://github.com/dankogai/js-base64",
+    "main": "base64.js",
+    "tag": "",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0"
+}
